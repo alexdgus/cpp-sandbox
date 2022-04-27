@@ -1,0 +1,2 @@
+- [Stack Overflow Reference](https://stackoverflow.com/questions/7114043/random-number-generation-in-c11-how-to-generate-how-does-it-work)
+- C++ Programming Language Section 40.7
